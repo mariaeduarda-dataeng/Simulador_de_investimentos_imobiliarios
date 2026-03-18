@@ -1,16 +1,11 @@
-Simulador de Investimentos Imobiliários
+🔎 Descrição:
+Desenvolvimento de uma planilha no Excel para simulação de cenários de investimento imobiliário, com foco em análise e apoio à tomada de decisão.
 
-Projeto de análise de dados que utiliza excel para prever tendências futuras no mercado imobiliário e fornecer insights valiosos para investidores.
+⚙️ O que foi feito:
 
-Objetivo:
-Prever preços de propriedades e fornecer recomendações de investimento informadas.
+- Organização e estruturação dos dados
+- Criação de cálculos para simulação de cenários
+- Análise de possíveis retornos
 
-Tecnologias Utilizadas:
-
-- Excel
-  
-Funcionalidades:
-
-- Análise de dados históricos do mercado imobiliário
-- Previsão de preços de propriedades
-- Recomendações de investimento
+🛠️ Tecnologias:
+Excel
